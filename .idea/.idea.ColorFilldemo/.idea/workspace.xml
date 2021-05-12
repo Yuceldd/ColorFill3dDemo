@@ -26,11 +26,11 @@
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/CubeControl.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateBoxEnemy.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/GridMove.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/RotationalCube.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/CubeEssentials.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/RotationalCube.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateBox.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/GridMove.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/InstantiateBoxEnemy.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/EnemyBoxMove.cs" />
     </changedPaths>
   </component>
@@ -60,7 +60,7 @@
       <workItem from="1620582388517" duration="1121000" />
       <workItem from="1620583544766" duration="1536000" />
       <workItem from="1620640212885" duration="9937000" />
-      <workItem from="1620731054293" duration="30649000" />
+      <workItem from="1620731054293" duration="31314000" />
     </task>
     <servers />
   </component>
